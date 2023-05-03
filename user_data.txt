@@ -1,5 +1,7 @@
-peteroomm@gmail.com, Peter Oo, 1234peter, 9111111, 32
-sandy@gmail.com, Sandy, 1234sandy, 9222222, 31
-miller@gmail.com, Miller, 1234miller, 9333333, 30
-clair@gmail.com, Clair, 1234clair, 9444444, 29
-michael@gmail.com, Michael, 1234mike, 9555555, 42
+peteroomm@gmail.com, Peter Oo, 1234peter, 9111111, 21
+sandy@gmail.com, Sandy Shaw, 1234sandy, 9222222, 31
+miller@gmail.com, James Miller, 1234miller, 90000111, 43
+michael@gmail.com, Michael, 1234mike, 9555555, 32
+kelly@gmail.com, kelly klein, 1234kelly, 9777777, 23
+merry@gmail.com, merry, 1234merry, 9999999, 23
+janny@gmail.com, Janny, 1234janny, 9845678, 34
