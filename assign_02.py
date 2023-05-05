@@ -28,13 +28,28 @@ def is_mail_existed(email):
             email_exist = idx
             break
 
+# def number_input(user_string):
+#     '''function to put only numbers and error handle mode included if alphabet is found in stdin'''
+#     while True:
+#         try:
+#             option = int(input(user_string))
+#             return option
+#         except ValueError:
+#             print("Enter only numbers")
+
 def number_input(user_string):
     '''function to put only numbers and error handle mode included if alphabet is found in stdin'''
+    number_list = "0123456789"
     while True:
-        try:
-            option = int(input(user_string))
-            return option
-        except ValueError:
+        allow = True
+        option = input(user_string)
+        for ele in option:
+            if ele not in number_list:
+                allow = False
+                break
+        if allow:
+            return int(option)
+        else:
             print("Enter only numbers")
 
 def registration():
